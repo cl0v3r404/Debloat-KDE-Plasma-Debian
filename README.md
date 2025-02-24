@@ -1,5 +1,5 @@
 # Debloat-KDE-Plasma-Debian
-Script for easy removal of bloatware from debian kde plasma
+Script for easy removal of bloatware from Debian KDE Plasma
 
 If you have installed a fresh Debian installation with KDE plasma this script helps to remove all that software that is installed that you probably won't use, such as konqueror.
 > [!CAUTION]
