@@ -11,11 +11,11 @@ Before executing the script I recommend doing a system update and it is necessar
 ## Instructions for use
 Download the script, I recommend that it is in /home or in any other folder inside this one. 
 ```
-wget https://github.com/cl0v3r404/Debloat-KDE-Plasma-Debian/blob/main/kdedebloat.sh
+wget https://github.com/cl0v3r404/Debloat-KDE-Plasma-Debian/releases/download/stable/kdedebloat.sh
 ```
 or
 ```
-curl -O https://github.com/cl0v3r404/Debloat-KDE-Plasma-Debian/blob/main/kdedebloat.sh
+curl -O https://github.com/cl0v3r404/Debloat-KDE-Plasma-Debian/releases/download/stable/kdedebloat.sh
 ```
 
 Grant execution permissions
