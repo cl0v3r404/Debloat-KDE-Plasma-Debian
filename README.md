@@ -3,7 +3,7 @@ Script for easy removal of bloatware from debian kde plasma
 
 If you have installed a fresh Debian installation with KDE plasma this script helps to remove all that software that is installed that you probably won't use, such as konqueror.
 > [!CAUTION]
-> This script is only tested for Debian, it has not been tested on Debian based distributions. Use it at your own risk.
+>  This script is only tested for Debian 12, it has not been tested on Debian based distributions or earlier versions. Use it at your own risk.
 
 ## Prerequisites
 Before executing the script I recommend doing a system update and it is necessary to have `wget` or `curl` installed.
