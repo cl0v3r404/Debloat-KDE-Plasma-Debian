@@ -1,29 +1,27 @@
 # Debloat-KDE-Plasma-Debian
-Script for easy removal that you probably won't use from Debian KDE Plasma
 
-If you have installed a fresh Debian installation with KDE plasma this script helps to remove all that software that is installed that you probably won't use, such as konqueror.
 > [!CAUTION]
->  This script is only tested for Debian 12, it has not been tested on Debian based distributions or earlier versions. Use it at your own risk.
+>  Este script funciona en Debian 13, aun no se ha probado en Debian 12 y anteriores, si decide usarlo en una de estas versiones, úselo bajo su propia responsabilidad
 
-## Prerequisites
-Before executing the script I recommend doing a system update and it is necessary to have `wget` or `curl` installed.
+## Pre-requisitos
+Antes de ejecutar este script tiene que tener instalado `wget` o `curl` en su sistema.
 
-## Instructions for use
-Download the script, I recommend that it is in /home or in any other folder inside this one. 
+## Instrucciones de uso
+Descargue el script con uno de los comandos listados a continuación, recomiendo descargarlo en un directorio como /home. 
 ```
 wget https://github.com/cl0v3r404/Debloat-KDE-Plasma-Debian/releases/download/update/kdedebloat.sh
 ```
-or
+o
 ```
 curl -O https://github.com/cl0v3r404/Debloat-KDE-Plasma-Debian/releases/download/update/kdedebloat.sh
 ```
 
-Grant execution permissions
+Otorgue permisos de ejecución
 ```
 chmod +x kdedebloat.sh
 ```
 
-Run the script and let it work its magic
+Ejecute el comando y deje que surga la magia
 ```
 sudo ./kdedebloat.sh
 ```
